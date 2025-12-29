@@ -1,1 +1,6 @@
-console.log("hello javascript")
+let index = 1
+
+while (index<=10) {
+    console.log(`Value of index is ${index}`)
+     index = index + 2
+}
